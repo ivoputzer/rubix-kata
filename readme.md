@@ -1,7 +1,7 @@
 rubik's cube kata
 ===
 
-you are requested [to model][0] a rubik's cube behaviour:
+you are requested [to model][0] a rubik's cube behaviour in a language of your choice:
 
 - the cube should be initialized to a given dimension:
   ```
